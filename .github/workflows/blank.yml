@@ -2,7 +2,7 @@
 
 name: CI
 
-# Controla cuándo se ejecutará el flujo de trabajo
+# Controla cuándo se ejecutará el flujo de trabajo.
 
 on:
     #Activa el flujo de trabajo en eventos de solicitud push o pull para el principal
