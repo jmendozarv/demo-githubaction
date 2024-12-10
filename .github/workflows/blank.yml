@@ -12,7 +12,7 @@ on:
         branches: [ main ]
 
 # Le permite ejecutar este flujo de trabajo manualmente desde la pestaña Acciones
-workflow_dispatch: 
+# workflow_dispatch: 
 
 # Una ejecución de flujo de trabajo se compone de uno o más trabajos
 jobs:
