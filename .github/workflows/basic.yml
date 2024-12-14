@@ -11,8 +11,8 @@ on:
     pull_request:
         branches: [ main ]
 
-# Le permite ejecutar este flujo de trabajo manualmente desde la pestaña Acciones
-# workflow_dispatch: 
+    # Le permite ejecutar este flujo de trabajo manualmente desde la pestaña Acciones
+    workflow_dispatch: 
 
 # Una ejecución de flujo de trabajo se compone de uno o más trabajos
 jobs:
